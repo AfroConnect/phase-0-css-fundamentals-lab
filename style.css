@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: rgb(72, 66, 66);
+  text-align: center;
+}
+header {
+  color: rgb(72, 66, 66);
+  text-align: center;
+}
+
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: red;
+}
+
+
+figure{
+  text-align: center;
+}
+
+figcaption {
+  font-size: small;
+}
+
+.yourwords {
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: dimgrey;
+
+}
+
+div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  text-decoration: none;
+  background-color: red;
+}
